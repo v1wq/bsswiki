@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>beeswarmwiki</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+    <header>
+        <img id="logo" src="Bee_Swarm_Simulator.webp">
+        <h1>bee swarm wiki</h1>
+    </header>
+    <article>
+            <div class="about">
+                <img class="about-image" src="Tide_Popper.webp">
+            </div>
+            <div class="desription">
+                <h2>Tide Popper</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates placeat deleniti quia consequatur voluptas iste rem soluta, mollitia quidem ducimus perferendis consectetur dolor delectus, dolores, cumque suscipit quod. Quae, perspiciatis.</p>
+           <div class="about">
+                
+    </article>
+    <footer>
+            <p>Copyrignt 2025 Oleksij Baidachnyi</p>
+     </foter>
+    </body>
+</html>

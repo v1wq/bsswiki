@@ -1,0 +1,63 @@
+header {
+    width: 100%;
+    background-color:rgb(250, 248, 119);
+    padding: 15px;
+    box-sizing: border-box;
+}
+article{
+    background-color: rgb(251, 253, 148);
+    width: 100% ;
+    padding: 15px;
+    box-sizing: border-box;
+    min-height: 90vh;
+    border: 3px solid
+    
+}
+footer{
+    background-color: rgb(243, 235, 129);
+    width: 100% ;
+    padding: 15px;
+    box-sizing: border-box;
+    border: 3px solid
+}
+body{
+    margin: 0%;
+    padding: 0%;
+}
+#logo{
+    width: 100px;
+    float: left;
+}
+#logo text{
+    float: left;
+}
+.card{
+    width: 210px;
+    background-color:rgb(248, 240, 170);
+    border: 2px solid rgb(0, 0, 0);
+    margin: 1.5%;
+    padding: 10px;
+    float: left;
+
+}
+.card-image{
+    height: 200px;
+}
+.card-button{
+width: 200px;
+height: px;
+background-color: rgb(219, 236, 139);
+}
+.about{
+    float: left;
+    width: 27%;
+    background-color: rgb(199, 248, 236);
+}
+.about-image{
+    width: 200px;
+}
+.description{
+    float: left;
+    width: 60%;
+    background-color: rgb(255, 213, 74);
+}
